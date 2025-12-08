@@ -1,0 +1,3 @@
+VehicleId,DepotId,InitialLoad,RouteSequence,ClientsServed,DemandsSatisfied,TotalDistance,TotalTime,FuelCost,TotalCost
+small van,CD01,59.0,CD01-C009-C002-C001-C004-C006-CD01,5,15-15-12-6-11,41.6138,1.0403,22610.15,184551.22
+medium van,CD01,42.0,CD01-C003-C008-C007-C005-CD01,4,15-10-12-5,31.1635,0.7791,16932.19,150762.11
